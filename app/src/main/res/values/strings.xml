@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Health</string>
+    <string name="title_activity_pick_age">PickAgeActivity</string>
+</resources>
