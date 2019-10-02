@@ -14,15 +14,6 @@ This Application for monitoring babies weight, length and diet.
 3. User can know the perfect weigt of his child at his child age.
 
 
-### The app includes the following main components:
-
-* A local database that servers as a single source of truth for data presented to the user.
-* A web api service.
-* A repository that works with the database and the api service, providing a unified data interface.
-* A ViewModel that provides data specific for the UI.
-* The UI, which shows a visual representation of the data in the ViewModel.
-* Unit Test cases for API service, Database, Repository and ViewModel.
-
 ### App Packages:
 * **api**  contains the api classes to make api calls to server using Retrofit.
 * **model** - contains model classes.
